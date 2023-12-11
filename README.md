@@ -1,5 +1,10 @@
 # Vectrex-Projects
-I created a few things for my Vectrex
+I created a few things for my Vectrex:
+
+I have included the Gerber files for the PCBs in the controller and STLs of all the 3D printed parts. (the Eagle PCBs and Solidworks CAD Models are also inlcuded). Feel free to use my designs for yourself and modifiy them as you see fit.  
+
+The designs are for personal use and may not be used for commericial use.
+
   1. A analog controller with a x-Axis sterring wheel, exposed center adjustment, headphone jack for foot pedal controls and a toggle to change what button the footpedal triggers.
      ![PXL_20231209_202842810](https://github.com/pmgducati/Vectrex-Projects/assets/20894227/2b209c28-07cf-47cf-a772-0f3049afb3a2)
      ![PXL_20231209_202845082](https://github.com/pmgducati/Vectrex-Projects/assets/20894227/e5e69397-b857-4dc7-937c-a270c1a7c02e)
@@ -20,7 +25,3 @@ I created a few things for my Vectrex
      ![PXL_20231211_051353031](https://github.com/pmgducati/Vectrex-Projects/assets/20894227/f4d47e4e-6b06-4e25-93ea-a86b437d0c20)
      ![PXL_20231211_051403507](https://github.com/pmgducati/Vectrex-Projects/assets/20894227/c1ef7a25-3c37-4ca6-8783-8b7386a80c55)
 
-
-I have included the Gerber files for the PCBs in the controller and STLs of all the 3D printed parts. (the Eagle PCBs and Solidworks CAD Models are also inlcuded). Feel free to use my designs for yourself and modifiy them as you see fit.  
-
-The designs are for personal use and may not be used for commericial use.
